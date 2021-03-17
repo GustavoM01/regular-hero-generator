@@ -1,36 +1,36 @@
-#The Regular Hero Generator - a salute to creativity!
+# The Regular Hero Generator - a salute to creativity!
 
-##What is The Regular Hero Generator?
+## What is The Regular Hero Generator?
 A random word generator, design to output some "regular" hero names that can be used for brainstorming or illustration daily challenges.
 
-##Table of Contents
+## Table of Contents
 -What is The Regular Hero Generator?
 -Technologies
 -Features
 -Status
 -Inspiration
 
-##Technologies
+## Technologies
 
 -JavaScript
 -HTML
 -CSS
 -Node.js
 
-##Features
+## Features
 -Randomly generate a regular hero name using three arrays composed of three words each.
-####To do:
+#### To do:
 -Expand the selection input through larger dictionaries.
 -Upload the program to a website, making it available to any web user.
 -Refacture JavaScript to make website also generate random colors for font and background for each randomly generated hero.
 -Create a gallery to display illustrations user want to share.
 
-##Status
+## Status
 -Early stages. App running in Node.js but very limited library of words.
 
-##Inspiration
+## Inspiration
 - [Node Package Manager](https://www.npmjs.com/) random word generator.
 - [Unique Names Generator](https://github.com/andreasonny83/unique-names-generator) by @andreasonny83
 
-##Contact
+## Contact
 Feel free to [contact me](maldonadogustavo55@gmail.com) or collaborate!
