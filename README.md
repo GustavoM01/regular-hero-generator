@@ -33,4 +33,4 @@ A random word generator, design to output some "regular" hero names that can be 
 - [Unique Names Generator](https://github.com/andreasonny83/unique-names-generator) by @andreasonny83
 
 ## Contact
-Feel free to [contact me](maldonadogustavo55@gmail.com) or collaborate!
+Feel free to contact me at maldonadogustavo55@gmail.com!
