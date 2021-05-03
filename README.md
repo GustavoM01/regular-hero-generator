@@ -31,7 +31,7 @@ A random word generator, designed to output some "regular" hero names that can b
 ## Room for Improvement
 To do:
 - Expand the variety of hero names one can generate by adding using larger arrays/dictionaries.
-- Deploy it to the web, making it available to any web user.
+- Deploy it to the web, making it accessible to any web user.
 - Refactor JavaScript to make website also generate random colors for font and background for each randomly generated hero.
 - Create a gallery to display illustrations user want to share.
 
