@@ -7,7 +7,7 @@
 * [Features](#features)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Inspiration](#inspiration)
+* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
@@ -36,8 +36,9 @@ To do:
 - Create a gallery to display illustrations user want to share.
 
 
-## Inspiration
-- [Node Package Manager](https://www.npmjs.com/) random word generator.
+## Acknowledgements
+This project was inspired by:
+- The [Node Package Manager](https://www.npmjs.com/) random word generator.
 - [Unique Names Generator](https://github.com/andreasonny83/unique-names-generator) by @andreasonny83.
 
 
