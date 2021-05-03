@@ -33,7 +33,7 @@ To do:
 - Expand the variety of hero names one can generate by adding using larger arrays/dictionaries.
 - Create a web page and deploy it to the web, making it accessible to any web user.
 - Refactor JavaScript to make website also generate random colors for font and background for each randomly generated hero.
-- Create a gallery to display illustrations user want to share.
+- Create a gallery to display illustrations users want to share.
 
 
 ## Acknowledgements
